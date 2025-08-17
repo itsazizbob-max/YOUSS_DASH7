@@ -1,7 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import logo from './assets/logo.png'; // Main logo for the top
-import maiLogo from './assets/maiL.png'; // MAI logo
+import maiLogo from './assets/mail.png'; // MAI logo
 import imaLogo from './assets/ima.png'; // IMA logo
 import rmaLogo from './assets/RMA.png'; // RMA logo
 
